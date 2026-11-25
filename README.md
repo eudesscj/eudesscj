@@ -13,6 +13,8 @@
 |---|---|
 | [**claude-skill-power-bi**](https://github.com/eudesscj/claude-skill-power-bi) | Kit de skills do Claude para projetos Power BI (PBIP): cria medidas DAX no padrão do modelo, faz análise de impacto, audita a qualidade, testa RLS e gera documentação. |
 | [**claude-skill-token-dashboard**](https://github.com/eudesscj/claude-skill-token-dashboard) | Dashboard local do consumo de tokens do Claude Code por projeto, sessão e pedido. |
+| [**inventory_powerbi**](https://github.com/eudesscj/inventory_powerbi) | Inventário de todos os reports e workspaces do Power BI via API REST (service principal): fontes de dados, agendamentos de refresh e páginas, exportado para Excel. |
+| [**backup_directory**](https://github.com/eudesscj/backup_directory) | Script Python de backup automatizado: compacta com timestamp, valida o ZIP, mantém só os N mais recentes e registra log. |
 | [**claude-skill-passatempos-infantis**](https://github.com/eudesscj/claude-skill-passatempos-infantis) | Skill que gera passatempos infantis prontos para imprimir (cruzadinha, caça-palavras, labirinto…) em PDF. |
 
 ### 🛠️ Stack
